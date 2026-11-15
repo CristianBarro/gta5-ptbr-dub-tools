@@ -1,0 +1,12 @@
+bin/
+obj/
+lib/
+__pycache__/
+*.wav
+*.awc
+*.rpf
+*.dll
+*.npz
+manifest.json
+approval.json
+
